@@ -23,7 +23,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: "empress-blog casper template",
+      title: "CISP",
       description: "The Casper theme for empress-blog",
       coverImage: '/images/blog-cover.jpg',
 
@@ -31,7 +31,7 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'About',
         route: 'page',
         id: 'chris-manson'
       }]
